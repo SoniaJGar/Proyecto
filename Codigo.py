@@ -26,6 +26,8 @@ from scipy.fft import fft, fftfreq
 from scipy.fft import rfft, rfftfreq
 from scipy.fft import irfft
 
+# FUNCIÓN QUE LIMPIA FRAGMENTOS DE 0'S EN LOS EXTREMOS DE LA SEÑAL
+
 def clean_infal(recordname_new):
     #Leemos las señales de un registro en concreto
     record = pd.read_csv(os.path.join('CSV',recordname_new+'.csv'), header=None)
@@ -237,7 +239,8 @@ def build_LSTM_model_2(unit_1, reg_1, unit_2):
     return model
 
 
-# Gráfica de la curva ROC de un modelo
+# GRÁFICA DE LA CURVA ROC DE UN MODELO
+
 def plot_roc(name, labels, predictions, **kwargs):
     fp, tp, _ = metrics.roc_curve(labels, predictions)
 
