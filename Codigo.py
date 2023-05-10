@@ -1,5 +1,3 @@
-
-# FUNCION QUE ELIMINA LOS 0'S AL INICIO Y AL FINAL DE LA SEÑAL
 import glob
 import numpy as np
 import pandas as pd
