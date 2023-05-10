@@ -4,8 +4,4 @@ En los últimos años, el uso de técnicas de aprendizaje profundo, específicam
 En este contexto, el objetivo de este repositorio es proporcionar un conjunto de funciones útiles que han sido utilizadas en el desarrollo de un proyecto de investigación sobre la detección de hipoxia fetal mediante redes neuronales profundas.  Dichas funciones se pueden encontrar  en el archivo  **codigo.py**.
 Espero que este repositorio sea de ayuda para la comunidad científica  y pueda contribuir al avance en dicho problema,  así como puedan ser de gran utilidad para otros investigadores y profesionales del campo de la medicina y la ingeniería biomédica  para el procesamiento y análisis de señales.
 
-> Descripción de las funciones
--  clean_infal() : 
-##  Descripción de las funciones
-> Prueba
->  -  otra prueba
+### Descripción de las funciones.
