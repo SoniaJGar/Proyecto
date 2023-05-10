@@ -13,6 +13,5 @@ Espero que este repositorio sea de ayuda para la comunidad científica  y pueda 
 
 >**Etiquetado**. <br>
 >  Dado que el problema abordado  es de clasificación binaria, es necesario contar con etiquetas que permitan clasificar cada señal como normal o hipóxica. Por este motivo se desarolla una función que devuelva  la etiqueta de cada una de las señales en función del ph del cordón umbilical, dato que puede encontrarsese en los archivos .hea de cada señal. 
-
 > - target(): función que toma de entrada  el valor del ph umbilical y  un umbral, a partir del cual se establecerán  ambas clases. De esta manera, las señales cuyo valor de ph asociado sea inferior  al umbral establecido serán clasificadas como hipóxicas y etiquetadas como consecuencia con un 1. Por el contrario, si el ph asociado es superior al umbral serán clasificadas como normales y etiquetadas con un 0.
 >     
