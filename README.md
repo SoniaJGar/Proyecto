@@ -5,7 +5,7 @@ En este contexto, el objetivo de este repositorio es proporcionar un conjunto de
 Espero que este repositorio sea de ayuda para la comunidad científica  y pueda contribuir al avance en dicho problema,  así como puedan ser de gran utilidad para otros investigadores y profesionales del campo de la medicina y la ingeniería biomédica  para el procesamiento y análisis de señales.
 
 ### Descripción de las funciones.
-> Preprocesado de las señales.
+> Preprocesado de las señales.<br>
 >  El preprocesamiento de señales es una tarea fundamental en la detección de hipoxia fetal mediante redes neuronales profundas. El objetivo de esta etapa es preparar las señales de entrada para que puedan ser utilizadas por los modelos de aprendizaje profundo, eliminando ruido y artefactos y resaltando las características relevantes de la señal.
 >  clean_infal():  función que 
 >  
