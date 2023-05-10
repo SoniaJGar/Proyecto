@@ -5,3 +5,4 @@ En este contexto, el objetivo de este repositorio es proporcionar un conjunto de
 Espero que este repositorio sea de ayuda para la comunidad científica  y pueda contribuir al avance en dicho problema,  así como puedan ser de gran utilidad para otros investigadores y profesionales del campo de la medicina y la ingeniería biomédica  para el procesamiento y análisis de señales.
 
 > Descripción de las funciones
+-  clean_infal() : 
