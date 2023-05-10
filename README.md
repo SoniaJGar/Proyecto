@@ -6,6 +6,6 @@ Espero que este repositorio sea de ayuda para la comunidad científica  y pueda 
 
 ### Descripción de las funciones.
 > **Preprocesado de señales**. <br>
->  El preprocesamiento de señales es una tarea fundamental en la detección de hipoxia fetal mediante redes neuronales profundas. El objetivo de esta etapa es preparar las señales de entrada para que puedan ser utilizadas por los modelos de aprendizaje profundo, eliminando ruido y artefactos y resaltando las características relevantes de la señal.
+>  El preprocesamiento de señales es una tarea fundamental en la detección de hipoxia fetal mediante redes neuronales profundas. El objetivo de esta etapa es preparar las señales de entrada para que puedan ser utilizadas por los modelos de aprendizaje profundo, eliminando ruido y artefactos y resaltando las características relevantes de la señal. Estas funciones son aplicadas a las señales  de CTG,  contenidas en archivos .dat.  (Se pueden encontrar en: *https://archive.physionet.org/physiobank/database/ctu-uhb-ctgdb/*).
 >  clean_infal():  función que 
 >  
